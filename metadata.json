@@ -1,0 +1,7 @@
+{
+  "name": "Student Registry",
+  "description": "A professional student data collection and management system with image support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
